@@ -1,0 +1,18 @@
+C:\Users\UMUT\Desktop\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.csprojAssemblyReference.cache
+C:\Users\UMUT\Desktop\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.Form1.resources
+C:\Users\UMUT\Desktop\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.Properties.Resources.resources
+C:\Users\UMUT\Desktop\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.csproj.GenerateResource.cache
+C:\Users\UMUT\Desktop\Ndp_Proje\Ndp_Proje\bin\Debug\Ndp_Proje.exe.config
+C:\Users\UMUT\Desktop\Ndp_Proje\Ndp_Proje\bin\Debug\Ndp_Proje.exe
+C:\Users\UMUT\Desktop\Ndp_Proje\Ndp_Proje\bin\Debug\Ndp_Proje.pdb
+C:\Users\UMUT\Desktop\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.exe
+C:\Users\UMUT\Desktop\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.pdb
+C:\Users\UMUT\NDP ÖDEVLER\Ndp_Proje\Ndp_Proje\bin\Debug\Ndp_Proje.exe.config
+C:\Users\UMUT\NDP ÖDEVLER\Ndp_Proje\Ndp_Proje\bin\Debug\Ndp_Proje.exe
+C:\Users\UMUT\NDP ÖDEVLER\Ndp_Proje\Ndp_Proje\bin\Debug\Ndp_Proje.pdb
+C:\Users\UMUT\NDP ÖDEVLER\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.csprojAssemblyReference.cache
+C:\Users\UMUT\NDP ÖDEVLER\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.Form1.resources
+C:\Users\UMUT\NDP ÖDEVLER\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.Properties.Resources.resources
+C:\Users\UMUT\NDP ÖDEVLER\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.csproj.GenerateResource.cache
+C:\Users\UMUT\NDP ÖDEVLER\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.exe
+C:\Users\UMUT\NDP ÖDEVLER\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.pdb
